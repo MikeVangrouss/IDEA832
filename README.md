@@ -1,5 +1,5 @@
 # IDEA832
-IDEA 832 bits Encryption Cipher source code in C. International Data Encryption Algorithm 832 bits.
+IDEA 832 bits Block cipher encryption source code in C. International Data Encryption Algorithm 832 bits.
 
 IDEA uses 128-bit keys. However, the internal keys are much larger. IDEA uses the 128-bit key to generate the 52 * 16-bit subkeys, or 832 bits. The 128-bit limitation of the key is artificial, so it can be enlarged up to 832 bits.
 
